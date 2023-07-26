@@ -21,6 +21,9 @@ npx cap sync
 
 ![App Screenshot](https://github.com/roldanmatias/sgchallenge/blob/main/screenshots/screenshot1.png)
 
+![App Screenshot](https://github.com/roldanmatias/sgchallenge/blob/main/screenshots/screenshot2.png)
+
+
 ## Architecture
 
 I have used MVVM architecture to desacople all responsibilities:
