@@ -1,0 +1,41 @@
+{
+  "api": {
+    "name": "AssignmentPlugin",
+    "slug": "assignmentplugin",
+    "docs": "",
+    "tags": [],
+    "methods": [
+      {
+        "name": "echo",
+        "signature": "(options: { value: string; }) => Promise<{ value: string; }>",
+        "parameters": [
+          {
+            "name": "options",
+            "docs": "",
+            "type": "{ value: string; }"
+          }
+        ],
+        "returns": "Promise<{ value: string; }>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "echo"
+      },
+      {
+        "name": "getLatestCover",
+        "signature": "() => Promise<[string]>",
+        "parameters": [],
+        "returns": "Promise<[string]>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "getlatestcover"
+      }
+    ],
+    "properties": []
+  },
+  "interfaces": [],
+  "enums": [],
+  "typeAliases": [],
+  "pluginConfigs": []
+}

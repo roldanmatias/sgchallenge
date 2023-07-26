@@ -1,0 +1,6 @@
+framework module CapacitorPluginAssignment {
+  umbrella header "CapacitorPluginAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "audio": "https://public.softgames.com/code-challenge/Oceansound.mp3",
+            "cover": "https://public.softgames.com/code-challenge/Oceansound.png",
+            "title": "Oceansound",
+            "totalDurationMs": 14448
+        },
+        {
+            "audio": "https://public.softgames.com/code-challenge/Nightlife.mp3",
+            "cover": "https://public.softgames.com/code-challenge/Nightlife.png",
+            "title": "Nightlife",
+            "totalDurationMs": 15696
+        },
+        {
+            "audio": "https://public.softgames.com/code-challenge/Waking_Me.mp3",
+            "cover": "https://public.softgames.com/code-challenge/Waking_Me.png",
+            "title": "Waking Me",
+            "totalDurationMs": 13776
+        }
+    ]
+}
